@@ -311,7 +311,7 @@ nav h1{
 .form{
     display: flex;
     flex-direction: column;
-    width: 90%;
+    width: 70%;
 }
 
 
@@ -395,6 +395,10 @@ footer ul{
         z-index: 0;
         opacity: 0.9;
         animation: cloudanimain 4s infinite alternate;
+    }
+
+    .form{
+        width: 90%;
     }
 }
 
